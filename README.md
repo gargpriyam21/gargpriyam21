@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Header](/assets/Header.png)](https://github.com/gargpriyam21)
+
+<h1 align="center">नमस्ते (Namaste), I'm Priyam Garg 👋 ! </h1>
+
 
 <!--
 **gargpriyam21/gargpriyam21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
