@@ -1,6 +1,7 @@
 [![Header](/assets/Header.png)](https://github.com/gargpriyam21)
 
-<h1 align="center">नमस्ते (Namaste), I'm Priyam Garg 👋 ! </h1>
+<h1 align="center">नमस्ते (Namaste), I'm Priyam Garg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+
 
 
 
@@ -15,6 +16,21 @@
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargpriyam21&exclude_repo=Projects_Android2017FallPitampura,Android2017FallPitampura,games,acmws-2020-pyspark,coding-interview-university,Problems&hide_border=true&layout=compact&bg_color=1d1f21&title_color=E0610E&text_color=666666&icon_color=E0610E&langs_count=8" width="45%" >
 </p>
+
+<br>
+
+<div align="center">
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+<br>
+  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/priyamgarg21/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/priyamgarg21/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/priyamgarg21)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/priyamgarg21)
+
+</div>
 
 
 <!--
