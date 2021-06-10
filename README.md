@@ -5,7 +5,7 @@
 
 
 
-# &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <img  src="https://github-readme-stats.vercel.app/api?username=gargpriyam21&show_icons=true&hide_border=true&bg_color=1d1f21&title_color=E0610E&text_color=666666&icon_color=E0610E" width="45%" align="right" >
 
