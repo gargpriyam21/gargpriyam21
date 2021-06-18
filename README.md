@@ -1,7 +1,18 @@
 [![Header](/assets/Header.png)](https://github.com/gargpriyam21)
 
-<h1 align="center">नमस्ते (Namaste), I'm Priyam Garg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center">Hi, Myself Priyam Garg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
+<h3 align="center">Software Developer | Data Analyst </h3>
+
+<p align="center">
+  <em>
+    Hello, I am Priyam Garg a <b>22 years</b> old <b> Software Developer and Data Analyst</b> from New Delhi, India🇮🇳.
+    <br><br>
+    <b>A Passionate Learner</b>👨🏻‍💻 and a <b>Sophophile</b> 📚
+  </em> 
+  <br><br>
+  <b><i align="center">"I am not stupid, Just too lazy to show how smart I am”</i></b>
+</p>
 
 
 
