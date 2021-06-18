@@ -6,8 +6,6 @@
 
 <p align="center">
   <em>
-    Hello, I am Priyam Garg a <b>22 years</b> old <b> Software Developer and Data Analyst</b> from New Delhi, India🇮🇳.
-    <br><br>
     <b>A Passionate Learner</b>👨🏻‍💻 and a <b>Sophophile</b> 📚
   </em> 
   <br><br>
