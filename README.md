@@ -6,10 +6,10 @@
 
 <p align="center">
   <em>
-    <b>A Passionate Learner</b>👨🏻‍💻 and a <b>Sophophile</b> 📚
+    <b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b>Sophophile📚 </i></b>
   </em> 
   <br><br>
-  <b><i align="center">"I am not stupid, Just too lazy to show how smart I am”</i></b>
+    <b><i align="center">"I am not stupid, Just too lazy to show how smart I am”</i></b>
 </p>
 
 
