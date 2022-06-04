@@ -1,6 +1,6 @@
 [![Header](/assets/Header_Main.png)](https://github.com/gargpriyam21)
 
-<h1 align="center">Hi, Myself Priyam Garg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center">Hi, Myself Priyam Garg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> ! </h1>
 
 <h3 align="center">Software Developer | Data Analyst </h3>
 
