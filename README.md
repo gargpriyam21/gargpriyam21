@@ -36,6 +36,24 @@ I am a <em><b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b
 Presented a Research Paper in International Conference on Smart Sustainable Intelligent Computing and Application (ICITETM-2020).
 
 ## 🎖 Skills
+### Languages
+<img src="./icons/java.png" height="48">  <img src="./icons/python.png" height="48">  <img src="./icons/sql.png" height="48"> <img src="./icons/git.png" height="48">  <img src="./icons/c.png" height="48"> <img src="./icons/c++.png" height="48">  <img src="./icons/kotlin.png" height="48"> <img src="./icons/latex.png" height="48"> <img src="./icons/html.png" height="48"> <img src="./icons/css.png" height="48">
+
+### Technologies/Frameworks:
+<img src="./icons/mysql.png" height="48">  <img src="./icons/pyspark.jpeg" height="48"> <img src="./icons/java.png" height="48">   <img src="./icons/firebase.png" height="48">
+
+### Cloud Platforms:
+<img src="./icons/aws.png" height="48">  <img src="./icons/azure.png" height="48"> <img src="./icons/colab.png" height="48">
+
+### Frontend/Analytical Tools:
+<img src="./icons/excel.png" height="48"> <img src="./icons/powerpoint.png" height="48"> <img src="./icons/tableau.png" height="48"> <img src="./icons/word.png" height="48"> <img src="./icons/photoshop.png" height="48">  
+
+### Developer Tools:
+<img src="./icons/android_studio.png" height="48"> <img src="./icons/xcode.png" height="48"> 
+
+### Operating Systems:
+<img src="./icons/macOS.png" height="48"> <img src="./icons/windows.png" height="48"> <img src="./icons/ubuntu.png" height="48"> 
+
 
 ## 💻 Work experience
 
