@@ -5,7 +5,7 @@
 <h3 align="center">Software Developer | Data Analyst </h3>
 
 <p>
-I am a <em><b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b>Sophophile📚 </i></b></em> I will graduate with Master's in <em>Computer Science</em> from <b>North Carolina State University, Raleigh </b> in May 2023. Currently, I am working as <em>Software Engineering Intern</em> at <b>Zscaler</b> in the R&D team of the ZPA tool.
+I am a <em><b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b>Sophophile📚 </i></b></em> I will graduate with Master's in <em>Computer Science</em> from <b>North Carolina State University, Raleigh </b> in May 2023. Currently, I am working as <em>Software Engineering Intern</em> at <b>Zscaler</b> in the R&D team of the ZPA tool. Find my resume <a href="https://drive.google.com/file/d/1OyVBGgT4MugE54KpA3Y5XK0Tmubgyqr1/view?usp=drivesdk">here</a>
 </p>
 
 <p align="center">
