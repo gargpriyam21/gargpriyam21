@@ -37,23 +37,25 @@ Presented a Research Paper in International Conference on Smart Sustainable Inte
 
 ## 🎖 Skills
 ### Languages
-<img src="./icons/java.png" height="48">  <img src="./icons/python.png" height="48">  <img src="./icons/sql.png" height="48"> <img src="./icons/git.png" height="48">  <img src="./icons/c.png" height="48"> <img src="./icons/c++.png" height="48">  <img src="./icons/kotlin.png" height="48"> <img src="./icons/latex.png" height="48"> <img src="./icons/html.png" height="48"> <img src="./icons/css.png" height="48">
+<img src="./icons/java.png" height="48">  <img src="./icons/python.png" height="48">  <img src="./icons/sql.png" height="48"> <img src="./icons/git.png" height="48">  <img src="./icons/c.png" height="48"> <img src="./icons/c++.png" height="48"> <img src="./icons/html.png" height="48"> <img src="./icons/ruby.svg" height="48"> <img src="./icons/kotlin.png" height="48"> <img src="./icons/css.png" height="48"> <img src="./icons/swift.png" height="48"> <img src="./icons/html.png" height="48"> <img src="./icons/css.png" height="48"> <img src="./icons/VIM-Dark.svg" height="48">
 
 ### Technologies/Frameworks:
-<img src="./icons/mysql.png" height="48"> <img src="./icons/oracledb.png" height="48"> <img src="./icons/pyspark.jpeg" height="48"> <img src="./icons/apache_spark.png" height="48"> <img src="./icons/hadoop.png" height="48"> <img src="./icons/hive.svg" height="48"> <img src="./icons/teradata.png" height="48">  <img src="./icons/airflow.png" height="48"> <img src="./icons/firebase.png" height="48">
+<img src="./icons/Spring-Dark.svg" height="48"> <img src="./icons/PostgreSQL-Dark.svg" height="48"> <img src="./icons/Rails.svg" height="48"> <img src="./icons/mysql.png" height="48">  <img src="./icons/oracledb.png" height="48"> <img src="./icons/pyspark.jpeg" height="48"> <img src="./icons/apache_spark.png" height="48"> <img src="./icons/hadoop.png" height="48"> <img src="./icons/hive.svg" height="48"> <img src="./icons/teradata.png" height="48">  <img src="./icons/airflow.png" height="48"> <img src="./icons/firebase.png" height="48">
 
 ### Cloud Platforms:
-<img src="./icons/aws.png" height="48">  <img src="./icons/azure.png" height="48"> <img src="./icons/colab.png" height="48"> <img src="./icons/boomi.png" height="48">
+<img src="./icons/aws.png" height="48">  <img src="./icons/azure.png" height="48"> <img src="./icons/colab.png" height="48"> <img src="./icons/IBMcloud.png" height="48"> <img src="./icons/boomi.png" height="48">
 
 ### Frontend/Analytical Tools:
 <img src="./icons/excel.png" height="48"> <img src="./icons/powerpoint.png" height="48"> <img src="./icons/tableau.png" height="48"> <img src="./icons/word.png" height="48"> <img src="./icons/photoshop.png" height="48"> <img src="./icons/finalcutpro.png" height="48">
 
 ### Developer Tools:
-<img src="./icons/android_studio.png" height="48"> <img src="./icons/eclipse.png" height="48"> <img src="./icons/vscode.png" height="48"> <img src="./icons/idea.png" height="48"> <img src="./icons/xcode.png" height="48"> <img src="./icons/anaconda.png" height="48"> 
+<img src="./icons/Jenkins-Dark.svg" height="48"> <img src="./icons/android_studio.png" height="48"> <img src="./icons/eclipse.png" height="48"> <img src="./icons/vscode.png" height="48"> <img src="./icons/idea.png" height="48"> <img src="./icons/xcode.png" height="48"> <img src="./icons/anaconda.png" height="48"> <img src="./icons/jupyter.png" height="48">
 
 ### Operating Systems:
-<img src="./icons/macOS.png" height="48"> <img src="./icons/windows.png" height="48"> <img src="./icons/ubuntu.png" height="48"> 
+<img src="./icons/macOS.png" height="48"> <img src="./icons/windows.png" height="48"> <img src="./icons/ubuntu.png" height="48"> <img src="./icons/Linux-Dark.svg" height="48"> 
 
+### Internet of Things:
+<img src="./icons/RaspberryPi-Dark.svg" height="48"> <img src="./icons/Arduino.svg" height="48"> <img src="./icons/mosquitto.png" height="48"> 
 
 ## 💻 Work experience
 
