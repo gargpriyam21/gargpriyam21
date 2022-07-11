@@ -27,7 +27,7 @@ I am a <em><b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b
 ### Open Source Contributions
 ***Expertiza***: Enhanced the application by implementing the Suggestion Detection Algorithm in the current codebase, which will help reviewers get live feedback for the review provided.
 
-<h3> <b>Guru Gobind Singh Indraprastha University , Delhi, India </b> | <em> B.Tech in Computer Science and Engineering</em> </h3> 
+<h3> <b>Guru Gobind Singh Indraprastha University, Delhi, India </b> | <em> B.Tech in Computer Science and Engineering</em> </h3> 
 <h5> <p align="right"> Aug 2016 - Aug 2020</p> </h5>
 
 ###  Activities and Societies 
@@ -36,7 +36,7 @@ I am a <em><b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b
 Presented a Research Paper in International Conference on Smart Sustainable Intelligent Computing and Application (ICITETM-2020).
 
 ## 🎖 Skills
-### Languages
+### Languages:
 <img src="./icons/java.png" height="48">  <img src="./icons/python.png" height="48">  <img src="./icons/sql.png" height="48"> <img src="./icons/git.png" height="48">  <img src="./icons/c.png" height="48"> <img src="./icons/c++.png" height="48"> <img src="./icons/html.png" height="48"> <img src="./icons/ruby.svg" height="48"> <img src="./icons/kotlin.png" height="48"> <img src="./icons/css.png" height="48"> <img src="./icons/swift.png" height="48"> <img src="./icons/html.png" height="48"> <img src="./icons/css.png" height="48"> <img src="./icons/VIM-Dark.svg" height="48">
 
 ### Technologies/Frameworks:
@@ -72,6 +72,10 @@ Presented a Research Paper in International Conference on Smart Sustainable Inte
 - Engaged and worked directly with business partners for major Biopharmaceuticals company in different geographies like the US, ACE countries, EU (European Union) and Latin America in gathering business requirements, discussing business plans, and providing data analysis
 - Trained and guided Interns and fresh hires in Big Data and ETL, on the AWS cloud, and front-end tools such as Tableau, Microsoft Excel, increasing productivity and helping to exceed the goal by 120%
 - Automated the testing process by developing a Python script that automatically executes testing queries and reports the results on the dashboard for further scrutiny and thereby saving approximately 300+ man-hours.
+
+## 📚 Academic Projects
+
+I am fortunate to work on multiple interesting projects in my graduate studies under amazing professors. Some of them are listed below:
 
 ## &#x1f4c8; GitHub Stats
 
