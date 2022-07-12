@@ -12,8 +12,8 @@
 I am a <em><b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b>Sophophile📚 </i></b></em> I will graduate with Master's in <em>Computer Science</em> from <b>North Carolina State University, Raleigh </b> in May 2023. Currently, I am working as <em>Software Engineering Intern</em> at <b>Zscaler</b> in the R&D team of the ZPA tool. Find my resume <a href="https://drive.google.com/file/d/1OyVBGgT4MugE54KpA3Y5XK0Tmubgyqr1/view?usp=drivesdk">here</a>
 </p>
 
-# 📚 Education
-<h2> <img src="./icons/ncsu.png" height="18"> <b>North Carolina State University, Raleigh, NC </b> | <em> Master of Computer Science</em> </h2> 
+## 📚 Education
+<h3> <img src="./icons/ncsu.png" height="18"> <b>North Carolina State University, Raleigh, NC </b> | <em> Master of Computer Science</em> </h3> 
 <h5> <p align="right"> Aug 2021 - Present</p> </h5>
 
 ### Courses
@@ -27,7 +27,7 @@ I am a <em><b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b
 ### Open Source Contributions
 ***Expertiza***: Enhanced the application by implementing the Suggestion Detection Algorithm in the current codebase, which will help reviewers get live feedback for the review provided.
 
-<h2> <img src="./icons/ggsipu.png" height="18"> <b>Guru Gobind Singh Indraprastha University, Delhi, India </b> | <em> B.Tech in Computer Science and Engineering</em> </h2> 
+<h3> <img src="./icons/ggsipu.png" height="18"> <b>Guru Gobind Singh Indraprastha University, Delhi, India </b> | <em> B.Tech in Computer Science and Engineering</em> </h3> 
 <h5> <p align="right"> Aug 2016 - Aug 2020</p> </h5>
 
 ###  Activities and Societies 
@@ -35,34 +35,34 @@ I am a <em><b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b
 - Coordinating juniors to work on innovative research projects by helping them in their endeavours. 
 Presented a Research Paper in International Conference on Smart Sustainable Intelligent Computing and Application (ICITETM-2020).
 
-# 🎖 Skills
-## Languages:
+## 🎖 Skills
+### Languages:
 <img src="./icons/java.png" height="48">  <img src="./icons/python.png" height="48">  <img src="./icons/sql.png" height="48"> <img src="./icons/git.png" height="48">  <img src="./icons/c.png" height="48"> <img src="./icons/c++.png" height="48"> <img src="./icons/html.png" height="48"> <img src="./icons/ruby.svg" height="48"> <img src="./icons/kotlin.png" height="48"> <img src="./icons/css.png" height="48"> <img src="./icons/swift.png" height="48"> <img src="./icons/html.png" height="48"> <img src="./icons/css.png" height="48"> <img src="./icons/VIM-Dark.svg" height="48">
 
-## Technologies/Frameworks:
+### Technologies/Frameworks:
 <img src="./icons/Spring-Dark.svg" height="48"> <img src="./icons/PostgreSQL-Dark.svg" height="48"> <img src="./icons/Rails.svg" height="48"> <img src="./icons/mysql.png" height="48">  <img src="./icons/oracledb.png" height="48"> <img src="./icons/pyspark.jpeg" height="48"> <img src="./icons/apache_spark.png" height="48"> <img src="./icons/hadoop.png" height="48"> <img src="./icons/hive.svg" height="48"> <img src="./icons/teradata.png" height="48">  <img src="./icons/airflow.png" height="48"> <img src="./icons/firebase.png" height="48">
 
-## Cloud Platforms:
+### Cloud Platforms:
 <img src="./icons/aws.png" height="48">  <img src="./icons/azure.png" height="48"> <img src="./icons/colab.png" height="48"> <img src="./icons/IBMcloud.png" height="48"> <img src="./icons/boomi.png" height="48">
 
-## Frontend/Analytical Tools:
+### Frontend/Analytical Tools:
 <img src="./icons/excel.png" height="48"> <img src="./icons/powerpoint.png" height="48"> <img src="./icons/tableau.png" height="48"> <img src="./icons/word.png" height="48"> <img src="./icons/photoshop.png" height="48"> <img src="./icons/finalcutpro.png" height="48">
 
-## Developer Tools:
+### Developer Tools:
 <img src="./icons/Jenkins-Dark.svg" height="48"> <img src="./icons/android_studio.png" height="48"> <img src="./icons/eclipse.png" height="48"> <img src="./icons/vscode.png" height="48"> <img src="./icons/idea.png" height="48"> <img src="./icons/xcode.png" height="48"> <img src="./icons/anaconda.png" height="48"> <img src="./icons/jupyter.png" height="48">
 
-## Operating Systems:
+### Operating Systems:
 <img src="./icons/macOS.png" height="48"> <img src="./icons/windows.png" height="48"> <img src="./icons/ubuntu.png" height="48"> <img src="./icons/Linux-Dark.svg" height="48"> 
 
-## Internet of Things:
+### Internet of Things:
 <img src="./icons/RaspberryPi-Dark.svg" height="48"> <img src="./icons/Arduino.svg" height="48"> <img src="./icons/mosquitto.png" height="48"> 
 
-# 💻 Work experience
+## 💻 Work experience
 
-<h2> <img src="./icons/zscaler.png" height="18"> <b> Zscaler </b> | <em> Software Engineer Intern, San Jose, California </em> </h2> 
+<h3> <img src="./icons/zscaler.png" height="18"> <b> Zscaler </b> | <em> Software Engineer Intern, San Jose, California </em> </h3> 
 <h5> <p align="right"> May 2022 - Aug 2022 </p> </h5>
 
-<h2> <img src="./icons/zs.png" height="18"> <b> ZS Associates </b> | <em> Business Technology Solution Associate, Gurugram, India </em> </h2> 
+<h3> <img src="./icons/zs.png" height="18"> <b> ZS Associates </b> | <em> Business Technology Solution Associate, Gurugram, India </em> </h3> 
 <h5> <p align="right"> Jul 2020 - Aug 2021 </p> </h5>
 
 - Structured and designed data models consisting of 100+ million records and 40+ tables by utilizing Big Data technologies like Spark, Hadoop, HDFS, and Hive, hence reducing the system complexities and increasing overall efficiency by 40%
@@ -73,11 +73,11 @@ Presented a Research Paper in International Conference on Smart Sustainable Inte
 - Trained and guided Interns and fresh hires in Big Data and ETL, on the AWS cloud, and front-end tools such as Tableau, Microsoft Excel, increasing productivity and helping to exceed the goal by 120%
 - Automated the testing process by developing a Python script that automatically executes testing queries and reports the results on the dashboard for further scrutiny and thereby saving approximately 300+ man-hours.
 
-# 📚 Academic Projects
+## 📚 Academic Projects
 
 I am fortunate to work on multiple interesting projects in my graduate studies under amazing professors. Some of them are listed below:
 
-# &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <img  src="https://github-readme-stats.vercel.app/api?username=gargpriyam21&show_icons=true&hide_border=true&bg_color=1d1f21&title_color=E0610E&text_color=666666&icon_color=E0610E" width="45%" align="right" >
 
