@@ -77,6 +77,14 @@ Presented a Research Paper in International Conference on Smart Sustainable Inte
 
 I am fortunate to work on multiple interesting projects in my graduate studies under amazing professors. Some of them are listed below:
 
+- [IoT Smart Dog Collar](https://github.com/gargpriyam21/IoT_Smart_Dog_Collar) a system that allows users to keep an eye on their dog or pet and observe if they are accessing an area unaccompanied and interacting with the owner's belongings. Our solution would allow the user to observe the dog's state without constantly monitoring it.
+
+- [MyPack-Lite](https://github.com/gargpriyam21/MyPack-Lite) a ruby on rails full-stack web application for students' and instructors' classes and subject enrollment system. The app includes various components, i.e., Admin, Student, Instructor, Course, Enrolment, and a Waitlist System. The user can perform respective functionalities as per the role assigned.
+
+- [Door Movement Detection via IoT](https://github.com/gargpriyam21/Door_Movement_Detection) an inertial measurement unit (IMU) and a cloud-based machine learning system to detect door open and close events, mounted the IMU sensor to a door and used IMU readings to identify when it was closed and opened.
+
+- [Client Server File Transfer Application](https://github.com/gargpriyam21/Client-Server-File-Transfer-Application) an FTP Server and Client architecture with ARQ schemes (Go Back N, Selective Repeat, and Stop and Wait) in Python utilizing Socket Programming. Maintained multi-threaded model to simultaneously buffer and manage the packet received and transferred, which sped up the process by 50%. Evaluated the performance of ARQ schemes by varying the Maximum Segment Size and the Window Size.
+
 ## &#x1f4c8; GitHub Stats
 
 <img  src="https://github-readme-stats.vercel.app/api?username=gargpriyam21&show_icons=true&hide_border=true&bg_color=1d1f21&title_color=E0610E&text_color=666666&icon_color=E0610E" width="45%" align="right" >
