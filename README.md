@@ -5,7 +5,7 @@
 <!-- <h3 align="center">Software Developer | Data Analyst </h3> -->
 
 <p align="center">
-    <b><i align="center">"I am not stupid, Just too lazy to show how smart I am”</i></b>
+    <b><i align="center">"I am not stupid, just too lazy to show how smart I am”</i></b>
 </p>
 
 <p>
