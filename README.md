@@ -62,6 +62,11 @@ Presented a Research Paper in International Conference on Smart Sustainable Inte
 <h3> <img src="./icons/zscaler.png" height="18"> <b> Zscaler </b> | <em> Software Engineer Intern, San Jose, California </em> </h3> 
 <h5> <p align="right"> May 2022 - Aug 2022 </p> </h5>
 
+- Implemented design patterns such as DTO, DAO, and Model View Controller in conjunction with Hibernate ORM to retrieve data from a Postgres database and reduce redundant database access statements, resulting in a 10% boost in tool speed.
+- Collaborated with other developers in the team to eliminate the most current security issue by upgrading the Spring framework and enhancing tool performance by 35%.
+- Participated in designing and developing the ZPA tool using MVC architecture utilizing the Spring framework while working in an agile environment, which sped up development by 30%.
+- Contributed to the continual improvement and reliability of the ZPA tool by fixing ad hoc defects in the codebase as reported by customers and QA and tracked using JIRA.
+
 <h3> <img src="./icons/zs.png" height="18"> <b> ZS Associates </b> | <em> Business Technology Solution Associate, Gurugram, India </em> </h3> 
 <h5> <p align="right"> Jul 2020 - Aug 2021 </p> </h5>
 
