@@ -62,6 +62,11 @@ Presented a Research Paper in International Conference on Smart Sustainable Inte
 
 ## 💻 Work experience
 
+<h3> <img src="./icons/ncsu.png" height="18"> <b> North Carolina State University </b> | <em> Research Assistant </em> </h3> 
+<h5> <p align="right"> Aug 2022 - Present 2022 </p> </h5>
+
+- Assisting research focused on improving Peer Assessment System - Expertiza (Open Source), while officially maintaining the system.
+
 <h3> <img src="./icons/zscaler.png" height="18"> <b> Zscaler </b> | <em> Software Engineer Intern, San Jose, California </em> </h3> 
 <h5> <p align="right"> May 2022 - Aug 2022 </p> </h5>
 
