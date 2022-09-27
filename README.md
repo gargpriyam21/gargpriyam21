@@ -9,7 +9,7 @@
 </p>
 
 <p>
-I am a <em><b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b>Sophophile📚 </i></b></em> I will graduate with Master's in <em>Computer Science</em> from <b>North Carolina State University, Raleigh </b> in May 2023. Currently, I am working as <em>Software Engineering Intern</em> at <b>Zscaler</b> in the R&D team of the ZPA tool. Find my resume <a href="https://drive.google.com/file/d/1OyVBGgT4MugE54KpA3Y5XK0Tmubgyqr1/view?usp=drivesdk">here</a>
+I am a <em><b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b>Sophophile📚 </i></b></em> I will graduate with Master's in <em>Computer Science</em> from <b>North Carolina State University, Raleigh </b> in May 2023. Currently, I am working as a Research Assistant under Dr. Edward Gehringer assisting his research focused on improving Peer Assessment System - Expertiza (Open Source), while officially maintaining the system. Previously, I have worked as <em>Software Engineering Intern</em> at <b>Zscaler</b> in the R&D team of the ZPA tool. Find my resume <a href="https://drive.google.com/file/d/1OyVBGgT4MugE54KpA3Y5XK0Tmubgyqr1/view?usp=drivesdk">here</a>
 </p>
 
 ## 📚 Education
@@ -92,6 +92,16 @@ I am fortunate to work on multiple interesting projects in my graduate studies u
 - [Door Movement Detection via IoT](https://github.com/gargpriyam21/Door_Movement_Detection) an inertial measurement unit (IMU) and a cloud-based machine learning system to detect door open and close events, mounted the IMU sensor to a door and used IMU readings to identify when it was closed and opened.
 
 - [Client Server File Transfer Application](https://github.com/gargpriyam21/Client-Server-File-Transfer-Application) an FTP Server and Client architecture with ARQ schemes (Go Back N, Selective Repeat, and Stop and Wait) in Python utilizing Socket Programming. Maintained multi-threaded model to simultaneously buffer and manage the packet received and transferred, which sped up the process by 50%. Evaluated the performance of ARQ schemes by varying the Maximum Segment Size and the Window Size.
+
+## 📄 Research Papers
+
+- [LUNG TUBERCULOSIS DETECTION USING ANTIALIASED CONVOLUTION NEURAL NETWORKS](https://www.sciencedirect.com/science/article/pii/S1877050920315374) published in INTERNATIONAL CONFERENCE ON SMART SUSTAINABLE INTELLIGENT COMPUTING AND APPLICATIONS | ICITETM-2020 ELSEVIER PROCEDIA – MARCH 2020
+
+- [PREDICTION OF CERVICAL CANCER USING CHICKEN SWARM OPTIMISATION](https://link.springer.com/chapter/10.1007/978-981-15-1286-5_51) published in INTERNATIONAL CONFERENCE OF INNOVATIVE COMPUTING AND COMMUNICATIONS SPRINGER SINGAPORE – FEBRUARY 2020
+
+- [APPLICATION OF CHICKEN SWARM OPTIMISATION IN DETECTION OF CANCER AND VIRTUAL REALITY](https://www.springer.com/in/book/9783030352516?wt_mc=Internal.Event.1.SEM.ChapterAuthorCongrat) published in ADVANCED COMPUTATIONAL INTELLIGENCE TECHNIQUE FOR VIRTUAL REALITY IN HEALTHCARE SPRINGER INTERNATIONAL PUBLISHING – JANUARY 2020
+
+- [BRAIN TUMOUR SEGMENTATION USING U-NET BASED FULLY CONVOLUTIONAL NETWORKS](http://www.jmdet.com/wp-content/uploads/2019/02/4jmdet_12_2_4-2.pdf) published in JOURNAL OF MULTI-DISCIPLINARY ENGINEERING TECHNOLOGIES GOOGLE SCHOLAR – AUGUST 2018
 
 ## &#x1f4c8; GitHub Stats
 
