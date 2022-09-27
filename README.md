@@ -23,6 +23,9 @@ I am a <em><b><i align="center">A Passionate Learner</b>👨🏻‍💻 and a <b
 4. Internet of Things: Architectures, Applications, and Implementation
 5. Object-Oriented Design and Development
 6. Algorithms for Data Guided Business Intelligence.
+7. Software Engineering
+8. Database Management concepts and Systems
+9. Human-Computer Interaction
 
 ### Open Source Contributions
 ***Expertiza***: Enhanced the application by implementing the Suggestion Detection Algorithm in the current codebase, which will help reviewers get live feedback for the review provided.
